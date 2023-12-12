@@ -17,3 +17,9 @@ The life system was developed based on the player's clicking errors, where a che
 
 <br>
 The menu was developed with the aim of improving the quality of the game for the player. We added a button to it that restarts the game when clicked, changing its variables to their initial state. We've also added the current score to make it more visible and your best score since the page was loaded, changing the text from "Game Over" to "Time Stopped" if time runs out and a "New Record" message if you got a new record.
+<br>
+
+## How to play
+
+<br>
+Go to the green button called “Code”, click on it and then on “Download ZIP”. After downloading the file, unzip it with WinRar, 7Zip or an unzipper of your choice, open the folder and double-click on index.html, after that, the game should start. Have a good game.
